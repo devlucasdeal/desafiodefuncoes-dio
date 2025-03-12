@@ -1,4 +1,4 @@
-# DESAFIO 02 - DIO | LÓGICA 
+# DESAFIO 03 - DIO | FUNÇÕES 
 
 ## ➡️ Introdução:
 
