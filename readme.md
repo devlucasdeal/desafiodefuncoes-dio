@@ -27,8 +27,6 @@ Consegui executar de forma mais simples e prática esse desafio, com a prática 
 
 Abaixo deixo meu linkedln, onde pretendo documentar toda a minha jornada de aprendizado dentro do universo da programação e conhecer novas pessoas dentro do mercado de blockchain que é o meu foco. Vai ser uma alegria te ter por la!
 
-## 📲 Minha Redes Sociais:
-
 | REDE | CLIQUE E SIGA |
 |------|---------------|
 | LINKEDLN | [CLIQUE AQUI](https://www.linkedin.com/in/lucasblocksec/) |
